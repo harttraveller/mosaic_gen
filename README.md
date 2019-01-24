@@ -4,9 +4,13 @@ https://github.com/rarcega/instagram-scraper
 
 # Dependencies
 Python v3
+
 Pandas
+
 Numpy
+
 Pillow (PIL)
+
 os, sys (included with python by default)
 
 
